@@ -1,0 +1,13 @@
+.container{
+    display: grid;
+    background-color: aqua;
+
+}
+.container >div{
+    display: grid;
+    background-color: blue;
+    padding: 30px;
+    
+
+
+}
